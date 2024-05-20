@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs94-react-node-Oliko136/static/css/main.7aab0272.css",
-    "main.js": "/fs94-react-node-Oliko136/static/js/main.3716007b.js",
+    "main.js": "/fs94-react-node-Oliko136/static/js/main.1ea58c15.js",
     "static/js/665.2a3374f1.chunk.js": "/fs94-react-node-Oliko136/static/js/665.2a3374f1.chunk.js",
     "static/js/688.a73fc709.chunk.js": "/fs94-react-node-Oliko136/static/js/688.a73fc709.chunk.js",
     "static/js/318.c03aebeb.chunk.js": "/fs94-react-node-Oliko136/static/js/318.c03aebeb.chunk.js",
@@ -123,7 +123,7 @@
     "static/media/icons-sprite.svg": "/fs94-react-node-Oliko136/static/media/icons-sprite.f7bad1557d5f1ff811b95faf64f78ba8.svg",
     "index.html": "/fs94-react-node-Oliko136/index.html",
     "main.7aab0272.css.map": "/fs94-react-node-Oliko136/static/css/main.7aab0272.css.map",
-    "main.3716007b.js.map": "/fs94-react-node-Oliko136/static/js/main.3716007b.js.map",
+    "main.1ea58c15.js.map": "/fs94-react-node-Oliko136/static/js/main.1ea58c15.js.map",
     "665.2a3374f1.chunk.js.map": "/fs94-react-node-Oliko136/static/js/665.2a3374f1.chunk.js.map",
     "688.a73fc709.chunk.js.map": "/fs94-react-node-Oliko136/static/js/688.a73fc709.chunk.js.map",
     "318.c03aebeb.chunk.js.map": "/fs94-react-node-Oliko136/static/js/318.c03aebeb.chunk.js.map",
@@ -136,6 +136,6 @@
   },
   "entrypoints": [
     "static/css/main.7aab0272.css",
-    "static/js/main.3716007b.js"
+    "static/js/main.1ea58c15.js"
   ]
 }
