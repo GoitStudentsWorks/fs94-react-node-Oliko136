@@ -12,7 +12,7 @@ import './assets/fonts/stylesheet.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/code-jedi-front">
+    <BrowserRouter basename="/fs94-react-node-Oliko136">
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           <GlobalStyle />
